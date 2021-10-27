@@ -1,4 +1,4 @@
-package class01;
+package xor;
 
 import base.Logger;
 

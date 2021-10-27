@@ -1,6 +1,6 @@
-package class01;
+package sort;
 
-import class01.base.SortTestHelper;
+import sort.base.SortTestHelper;
 
 /**
  * 插入排序

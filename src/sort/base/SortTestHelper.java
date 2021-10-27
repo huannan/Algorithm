@@ -1,4 +1,4 @@
-package class01.base;
+package sort.base;
 
 import java.util.Arrays;
 
